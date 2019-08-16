@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atividade IPTU</string>
+    <string name="usuario">"Usuario"</string>
+    <string name="area">"Área"</string>
+    <string name="tipo">"Tipo do imóvel</string>
+    <string name="valor">"Valor do IPTU: "</string>
+    <string-array name="tipos">
+        <item>"Residencial"</item>
+        <item>"Comercial"</item>
+        <item>"Industrial"</item>
+    </string-array>
+</resources>
